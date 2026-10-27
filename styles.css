@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders:opsz,wght@10..72,100..900&family=Lexend+Deca:wght@100..900&display=swap');
+
+:root {
+    --lexend: "Lexend Deca", sans-serif;
+    --bigshoulders: "Big Shoulders", sans-serif;
+    --fontsize: 15px;
+    --gold: hsl(31, 77%, 53%);
+    --cyan: hsl(184, 100%, 22%);
+    --green: hsl(179, 100%, 13%);
+    --transwhite: hsla(0, 0%, 100%, 0.75); /*paragraphs*/
+    --gray: hsl(0, 0%, 95%); /*bg, headings, buttons*/
+}
+
