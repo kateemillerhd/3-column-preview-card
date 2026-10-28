@@ -26,7 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./mobile.jpeg)
+![](./desktop.png)
 
 
 
@@ -42,16 +43,15 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
 
-
+I was able to practice responsiveness and page layout.
 
 ### Continued development
 
-
+I would like to improve layout without so many try this, erase, try this, erase....
 
 ## Author
 
